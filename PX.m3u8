@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+
+#EXTINF:-1 tvg-epgid="ABC.(WABC).New.York,.NY.us" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC (WABC) New York|NY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Broadcast",ABC (WABC) New York|NY(mjoy)
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="CW.(WDCW).District.of.Columbia.us" tvg-name="CW (WDCW) District of Columbia" tvg-logo="https://www.dcnewsnow.com/wp-content/uploads/sites/14/2025/04/dcw50-cw-logo_web.png" group-title="Broadcast",CW (WDCW) District of Columbia
+https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
+
+#EXTINF:-1 tvg-id="MeTV.KSAT-DT2.us" tvg-name="MeTV KSAT-DT2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" group-title="Entertainment",MeTV(mjoy)
+http://fl2.moveonjoy.com/ME_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Get.TV.us" tvg-name="getTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true" group-title="Entertainment",getTV
+http://72.46.118.193/GetTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-name="" tvg-logo="" group-title="UK",channel 4
+https://a1xs.vip/1000031
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment" tvg-chno="",BBC One
+http://41.205.93.154/BBCONE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment" tvg-chno="",BBC TWO
+http://41.205.93.154/BBCTWO/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment" tvg-chno="",Channel 5
+https://cachehsi1a.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment" tvg-chno="",CSTAR
+http://41.205.93.154/CSTAR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment" tvg-chno="",CSTAR
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment" tvg-chno="",RTL
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment" tvg-chno="",RTL
+https://strm.hdtvizlecanli.com/live/rtl2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment" tvg-chno="",ORF 1
+https://cachehsi1a.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment" tvg-chno="",ORF 1
+https://strm.hdtvizlecanli.com/live/orf1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment" tvg-chno="",ORF 2
+https://cachehsi1a.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment" tvg-chno="",ORF 2
+https://strm.hdtvizlecanli.com/live/orf2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment" tvg-chno="",atv
+https://strm.hdtvizlecanli.com/live/atv.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain" tvg-chno="",La 1 CAT
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain" tvg-chno="",La 1 
+https://ztnr.rtve.es/ztnr/1688877.m3u8
