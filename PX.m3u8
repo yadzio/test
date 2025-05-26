@@ -150,22 +150,38 @@ https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 #EXTINF:-1 tvg-id="PBS.(KMOS).Warrensburg,.MO.us" tvg-name="PBS (KMOS) Warrensburg, MO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/PBS_%282002%29_%28White_Print%29.svg/revision/latest?cb=20250512013904" group-title="Broadcast",PBS (KMOS-DT1)(HD)
 https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 
-#EXTINF:-1 tvg-id="ABCMelbourne.au" tvg-name="" tvg-logo="" group-title="Broadcast",ABC vic
+#EXTINF:-1 channel-id="mjh-abc-nsw" tvg-id="mjh-abc-nsw" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Sydney" , ABC TV
+https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:-1 channel-id="mjh-abc-vic" tvg-id="mjh-abc-vic" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Melbourne" , ABC TV
 https://c.mjh.nz/abc-vic.m3u8
-#EXTINF:-1 tvg-id="ABCAdelaide.au" tvg-name="" tvg-logo="" group-title="Broadcast",ABC sa
-https://c.mjh.nz/abc-sa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Broadcast",ABC
-https://c.mjh.nz/abc-nt.m3u8
-#EXTINF:-1 tvg-id="ABCPerth.au" tvg-name="" tvg-logo="" group-title="Broadcast",ABC wa
+#EXTINF:-1 channel-id="mjh-abc-qld" tvg-id="mjh-abc-qld" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Brisbane" , ABC TV
+https://c.mjh.nz/abc-qld.m3u8
+#EXTINF:-1 channel-id="mjh-abc-wa" tvg-id="mjh-abc-wa" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Perth" , ABC TV
 https://c.mjh.nz/abc-wa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Broadcast",abc plus
-https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Broadcast",abc me
-https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Broadcast",abc kids
+#EXTINF:-1 channel-id="mjh-abc-sa" tvg-id="mjh-abc-sa" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Adelaide" , ABC TV
+https://c.mjh.nz/abc-sa.m3u8
+#EXTINF:-1 channel-id="mjh-abc-act" tvg-id="mjh-abc-act" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Canberra" , ABC TV
+https://c.mjh.nz/abc-act.m3u8
+#EXTINF:-1 channel-id="mjh-abc-nt" tvg-id="mjh-abc-nt" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Darwin" , ABC TV
+https://c.mjh.nz/abc-nt.m3u8
+#EXTINF:-1 channel-id="mjh-abc-tas" tvg-id="mjh-abc-tas" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="2" group-title="Hobart" , ABC TV
+https://c.mjh.nz/abc-tas.m3u8
+#EXTINF:-1 channel-id="mjh-abc-kids" tvg-id="mjh-abc-kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" tvg-chno="22" group-title="Au" , ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Broadcast",abc news
+#EXTINF:-1 channel-id="mjh-abc-tv-plus" tvg-id="mjh-abc-tv-plus" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/7_Family_C-1053_iview_LivestreamOff_2000x2000_new.png" tvg-chno="22" group-title="Au" , ABC Family
+https://c.mjh.nz/abc-tv-plus.m3u8
+#EXTINF:-1 channel-id="mjh-abc-me" tvg-id="mjh-abc-me" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/6_Entertains_C-1054_iview_LivestreamOn_2000x2000_new.png" tvg-chno="23" group-title="Au" , ABC Entertains
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="Au" , ABC NEWS
 https://c.mjh.nz/abc-news.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs" tvg-id="mjh-sbs" tvg-logo="https://i.mjh.nz/.images/sbs.png" tvg-chno="3" group-title="Au" , SBS 15.197
+https://i.mjh.nz/.r/sbs.m3u8|X-Forwarded-For=15.197.243.27
+
+#EXTINF:-1 channel-id="mjh-sbs" tvg-id="mjh-sbs" tvg-logo="https://i.mjh.nz/.images/sbs.png" tvg-chno="3" group-title="Au" , SBS 202.89
+https://i.mjh.nz/.r/sbs.m3u8|X-Forwarded-For=202.89.4.222
+
+
 #EXTINF:-1 tvg-id="TV5MONDE.Europe.be" tvg-name="TV5MONDE Europe" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="TV5" tvg-chno="",TV5 Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8|X-Forwarded-For=31.3.228.238
 #EXTINF:-1 tvg-id="TV5.Monde.FBS.fr" tvg-name="TV5 Monde FBS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/TV5Monde_FBSM_2022.svg/revision/latest?cb=20220504053644" group-title="TV5" tvg-chno="",TV5 FBSM
