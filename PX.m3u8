@@ -136,17 +136,18 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="Create.TV.us" tvg-name="Create TV" tvg-logo="" group-title="Broadcast",PBS Create(WPMT)
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt-3hrgycr8cz/apt-create/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Broadcast",PBS KET KY GEO
-https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Broadcast",PBS KET2
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS.(WKLE).Lexington-Richmond,.KY.us" tvg-name="PBS (WKLE) Lexington-Richmond, KY" tvg-logo="" group-title="Broadcast",PBS KET (WKLE)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 tvg-id="Kentucky.Channel.(WKPC-DT3).Louisville,.KY.us" tvg-name="Kentucky Channel (WKPC-DT3) Louisville, KY" tvg-logo="" group-title="Broadcast",PBS KET KY GEO
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1282960/playlist.m3u8|X-Forwarded-For=44.199.160.6
+#EXTINF:-1 tvg-id="Kentucky.Channel.(WKMJ-TV2).Lexington,.KY.us" tvg-name="Kentucky Channel (WKMJ-TV2) Lexington, KY" tvg-logo="" group-title="Broadcast",PBS KET2
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PBS.(KCPT).Kansas.City,.MO.us" tvg-name="PBS (KCPT) Kansas City, MO" tvg-logo="" group-title="Broadcast",PBS (KCPT-DT1)(HD)
+
+#EXTINF:-1 tvg-id="PBS.(KCPT).Kansas.City,.MO.us" tvg-name="PBS (KCPT) Kansas City, MO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/PBS_%282002%29_%28White_Print%29.svg/revision/latest?cb=20250512013904" group-title="Broadcast",PBS (KCPT-DT1)(HD)
 https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 
-#EXTINF:-1 tvg-id="PBS.(KMOS).Warrensburg,.MO.us" tvg-name="PBS (KMOS) Warrensburg, MO" tvg-logo="" group-title="Broadcast",PBS (KMOS-DT1)(HD)
+#EXTINF:-1 tvg-id="PBS.(KMOS).Warrensburg,.MO.us" tvg-name="PBS (KMOS) Warrensburg, MO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/PBS_%282002%29_%28White_Print%29.svg/revision/latest?cb=20250512013904" group-title="Broadcast",PBS (KMOS-DT1)(HD)
 https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 
 #EXTINF:-1 tvg-id="ABCMelbourne.au" tvg-name="" tvg-logo="" group-title="Broadcast",ABC vic
