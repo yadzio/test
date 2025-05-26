@@ -1,7 +1,61 @@
 #EXTM3U
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://i.mjh.nz/PlutoTV/all.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky News
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One Lon HD" tvg-logo="https://tv.assets.pressassociation.io/7101c0db-8b33-59ad-9076-13a47591751b.png" group-title="UK" tvg-chno="101",101 BBC One London
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One Lon HD" tvg-logo="https://tv.assets.pressassociation.io/7101c0db-8b33-59ad-9076-13a47591751b.png" group-title="UK" tvg-chno="101",101 BBC One London
+http://41.205.93.154/BBCONE/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two HD" tvg-logo="https://tv.assets.pressassociation.io/286ac49c-6589-526e-91c0-1535bfa37c0d.png" group-title="UK" tvg-chno="102",102 BBC Two London
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two HD" tvg-logo="https://tv.assets.pressassociation.io/286ac49c-6589-526e-91c0-1535bfa37c0d.png" group-title="UK" tvg-chno="102",102 BBC Two London
+https://cachehsi1a.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+
+
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="BBC Three HD" tvg-logo="https://tv.assets.pressassociation.io/b4ab514e-1118-5590-88ea-1e9c38c59664.png" group-title="UK" tvg-chno="103",103 BBC three
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="BBC Three HD" tvg-logo="https://tv.assets.pressassociation.io/b4ab514e-1118-5590-88ea-1e9c38c59664.png" group-title="UK" tvg-chno="103",103 BBC three
+https://cachehsi1a.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
+
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-name="BBC Four HD" tvg-logo="https://tv.assets.pressassociation.io/b4c9bef9-ef51-5ed7-9a35-d197aef04d1f.png" group-title="UK" tvg-chno="104",104 BBC FOUR
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-name="BBC Four HD" tvg-logo="https://tv.assets.pressassociation.io/b4c9bef9-ef51-5ed7-9a35-d197aef04d1f.png" group-title="UK" tvg-chno="104",104 BBC FOUR
+https://cachehsi1a.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 HD" tvg-logo="https://tv.assets.pressassociation.io/393f2a91-63b4-5f71-8cb2-158ef548c6f9.png" group-title="UK" tvg-chno="105",105 itv1
+https://a1xs.vip/1000011
+
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-name="ITV2 HD" tvg-logo="https://tv.assets.pressassociation.io/3dd5a391-c762-5d2d-8166-dfb403f8b757.png" group-title="UK" tvg-chno="106",106 itv2
+https://a1xs.vip/1000012
+
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-name="ITV2 HD" tvg-logo="https://tv.assets.pressassociation.io/3dd5a391-c762-5d2d-8166-dfb403f8b757.png" group-title="UK" tvg-chno="106",106 itv2
+https://cachehsi1a.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-name="ITV3 HD" tvg-logo="https://tv.assets.pressassociation.io/a87519ca-c244-5181-b60b-f8b4fda4c6b7.png" group-title="UK" tvg-chno="107",107 itv3
+https://a1xs.vip/1000013
+
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-name="ITV3 HD" tvg-logo="https://tv.assets.pressassociation.io/a87519ca-c244-5181-b60b-f8b4fda4c6b7.png" group-title="UK" tvg-chno="107",107 itv3
+https://cachehsi1a.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="ITV4 HD" tvg-logo="https://tv.assets.pressassociation.io/ff39bd9d-2bfc-59c0-a900-4bb82adc04b8.png" group-title="UK" tvg-chno="108",108 itv4
+https://cachehsi1a.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv.assets.pressassociation.io/4166c0ee-1b16-569a-81a0-4271b4c0d879.png" group-title="UK" tvg-chno="120,120 5 Select [SD]
+http://tv.cloudcdn.me:80/live.ts?channelId=485&uid=1814&deviceMac=00:1A:79:07:A6:67
+
+#EXTINF:-1 tvg-id="5ddf901280e3550009139c86" tvg-name="5 Exploring Britain" tvg-logo="https://images.pluto.tv/channels/5ddf901280e3550009139c86/solidLogoSVG.svg" group-title="UK" tvg-chno="121,121 5 Exploring Britain
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv.assets.pressassociation.io/fa2abb0e-0151-5778-a69f-cf4e2d7f2986.png" group-title="UK" tvg-chno="110",110 Channel 4
+http://tv.cloudcdn.me:80/live.ts?channelId=4218&uid=1814&deviceMac=00:1A:79:07:A6:67
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky News (not with extreme iptv??
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 #EXTINF:-1 tvg-epgid="ABC.(WABC).New.York,.NY.us" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC (WABC) New York|NY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="Broadcast",ABC (WABC) New York|NY(mjoy)
