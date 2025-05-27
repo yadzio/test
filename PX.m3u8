@@ -2,6 +2,14 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
 
+#EXTINF:-1 tvg-id="csm-stv" tvg-name="STV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/STV_Logo_2022.svg" group-title="UK",STV Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+#EXTVLCOPT:http-header=X-Forwarded-For: 81.139.100.100
+https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3
+
+#EXTINF:-1 tvg-id="csm-stv" tvg-name="STV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/STV_Logo_2022.svg" group-title="UK",STV Live
+https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3|X-Forwarded-For=81.139.100.100
+
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One Lon HD" tvg-logo="https://tv.assets.pressassociation.io/7101c0db-8b33-59ad-9076-13a47591751b.png" group-title="UK" tvg-chno="101",101 BBC One London
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One Lon HD" tvg-logo="https://en.wikipedia.org/wiki/BBC_One#/media/File:BBC_One_logo_2021.svg" group-title="UK" tvg-chno="101",101 BBC One London
@@ -187,17 +195,17 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8|X-Forward
 #EXTINF:-1 tvg-id="TV5.Monde.FBS.fr" tvg-name="TV5 Monde FBS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/TV5Monde_FBSM_2022.svg/revision/latest?cb=20220504053644" group-title="TV5" tvg-chno="",TV5 FBSM
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8|X-Forwarded-For=217.70.184.38
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/TV5Monde_Maghreb_Orient.png/revision/latest/scale-to-width-down/1000?cb=20240922172650" group-title="TV5" tvg-chno="",TV5 Orient
-https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8|X-Forwarded-For=212.32.94.18
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8|X-Forwarded-For=94.200.200.200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="TV5" tvg-chno="",TV5 Pacifique
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8|X-Forwarded-For=101.102.235.71
 #EXTINF:-1 tvg-id="TV5MONDE.ASIE.hk" tvg-name="TV5MONDE ASIE" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="TV5" tvg-chno="",TV5 Asie
-http://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8|X-Forwarded-For=101.102.235.71
+http://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8|X-Forwarded-For=182.50.132.1
 #EXTINF:-1 tvg-id="" tvg-name="TV5MONDE.Style.hk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TV5Monde_Style_2023.svg/revision/latest?cb=20231101032935" group-title="TV5" tvg-chno="",TV5 Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8|X-Forwarded-For=101.102.235.71
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TV5Monde_Style_2023.svg/revision/latest?cb=20231101032935" group-title="TV5" tvg-chno="",TV5 Style 2
 https://ott.tv5monde.com/Content/HLS/Live/channel(style2)/variant.m3u8|X-Forwarded-For=101.102.235.71
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/TV5Monde_Afrique_2021.svg/revision/latest?cb=20220504053704" group-title="TV5" tvg-chno="",TV5 Afrique
-https://ott.tv5monde.com/Content/HLS/Live/channel(afrique)/variant.m3u8|X-Forwarded-For=192.185.21.130
+https://ott.tv5monde.com/Content/HLS/Live/channel(afrique)/variant.m3u8|X-Forwarded-For=41.204.200.1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/vxqS6F0/tv5voyage.png" tvg-chno="",TV5MONDE VOYAGE
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
 
