@@ -2,6 +2,14 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
 
+#EXTM3U
+#EXTINF:-1 tvg-logo=""  group-title="",RTL test
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"a23c541ad1334ea697bab962336d31e6", "kid":"996515f9b655011b20993c5514298eb3"}]}
+https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/6810477d8b1b4e458506df3803486870/index.mpd
+
+
 #EXTINF:-1 tvg-id="csm-stv" tvg-name="STV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/STV_Logo_2022.svg" group-title="UK",STV Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
 #EXTVLCOPT:http-header=X-Forwarded-For: 81.139.100.100
