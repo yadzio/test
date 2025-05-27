@@ -30,14 +30,14 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.
 https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3|X-Forwarded-For=81.139.100.100
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One Lon HD" tvg-logo="https://tv.assets.pressassociation.io/7101c0db-8b33-59ad-9076-13a47591751b.png" group-title="UK" tvg-chno="101",101 BBC One London
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv14/b=5070016/main.m3u8
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv14/b=5070016/main.m3u8|X-Forwarded-For=81.139.100.100
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One Lon HD" tvg-logo="https://en.wikipedia.org/wiki/BBC_One#/media/File:BBC_One_logo_2021.svg" group-title="UK" tvg-chno="101",101 BBC One London
 http://41.205.93.154/BBCONE/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two HD" tvg-logo="https://tv.assets.pressassociation.io/286ac49c-6589-526e-91c0-1535bfa37c0d.png" group-title="UK" tvg-chno="102",102 BBC Two London
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8|X-Forwarded-For=81.139.100.100
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two HD" tvg-logo="https://tv.assets.pressassociation.io/286ac49c-6589-526e-91c0-1535bfa37c0d.png" group-title="UK" tvg-chno="102",102 BBC Two London
 https://cachehsi1a.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
