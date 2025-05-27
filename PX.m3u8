@@ -2,18 +2,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
 
-#EXTM3U
-#EXTINF:-1 tvg-logo=""  group-title="",RTL test
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"a23c541ad1334ea697bab962336d31e6", "kid":"996515f9b655011b20993c5514298eb3"}]}
-https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/6810477d8b1b4e458506df3803486870/index.mpd
 
-
-#EXTINF:-1 tvg-id="csm-stv" tvg-name="STV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/STV_Logo_2022.svg" group-title="UK",STV Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
-#EXTVLCOPT:http-header=X-Forwarded-For: 81.139.100.100
-https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3
 
 #EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20HD.png" group-title="TNT", TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
@@ -22,12 +11,12 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3
 #EXTINF:-1 tvg-chno="11" tvg-id="NT1.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TFX.png" group-title="Cinéma/Séries", TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTINF:-1 tvg-chno="" tvg-id="TF1SeriesFilms.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20Séries%20Films.png" group-title="Cinéma/Séries", TF1 Séries Films
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/tf1plus/tf1-series-films.m3u8
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png" group-title="Documentaire", Arte
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/tf1plus/arte.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%202%20HD.png" group-title="TNT", France 2
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/france2.m3u8|X-Forwarded-For=217.70.184.38
 
-
-
-#EXTINF:-1 tvg-id="csm-stv" tvg-name="STV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/STV_Logo_2022.svg" group-title="UK",STV Live
-https://csm-e-stv.tls1.yospace.com/csm/live/139900483.m3u8?yo.l=true&yo.ls=2,3,4,5,6&yo.p=3|X-Forwarded-For=81.139.100.100
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One Lon HD" tvg-logo="https://tv.assets.pressassociation.io/7101c0db-8b33-59ad-9076-13a47591751b.png" group-title="UK" tvg-chno="101",101 BBC One London
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/t=3840/v=pv14/b=5070016/main.m3u8|X-Forwarded-For=81.139.100.100
