@@ -212,8 +212,12 @@ http://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8|X-Forwarde
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8|X-Forwarded-For=101.102.235.71
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TV5Monde_Style_2023.svg/revision/latest?cb=20231101032935" group-title="TV5" tvg-chno="",TV5 Style 2
 https://ott.tv5monde.com/Content/HLS/Live/channel(style2)/variant.m3u8|X-Forwarded-For=101.102.235.71
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/TV5Monde_Afrique_2021.svg/revision/latest?cb=20220504053704" group-title="TV5" tvg-chno="",TV5 Afrique
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/TV5Monde_Afrique_2021.svg/revision/latest?cb=20220504053704" group-title="TV5" tvg-chno="",TV5 Afrique 1
 https://ott.tv5monde.com/Content/HLS/Live/channel(afrique)/variant.m3u8|X-Forwarded-For=41.204.200.1
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Afrique" tvg-logo="https://..." group-title="TV5",TV5 Afrique 2
+https://ott.tv5monde.com/Content/HLS/Live/channel(afrique)/variant.m3u8|X-Forwarded-For=41.204.200.1&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Afrique" tvg-logo="https://..." group-title="TV5",TV5 Afrique
+https://ott.tv5monde.com/Content/HLS/Live/channel(afrique)/variant.m3u8|X-Forwarded-For=41.204.200.1&User-Agent=Mozilla/5.0&Origin=https://tv5monde.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/vxqS6F0/tv5voyage.png" tvg-chno="",TV5MONDE VOYAGE
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
 
