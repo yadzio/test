@@ -12,10 +12,16 @@ https://cachehsi1b.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_2540_000.png" group-title=NL",BE| Play Crime
 https://playmedia-playcrime-goplay.amagi.tv/index_1.m3u8
 
-#EXTINF:-1 tvg-id="NL:.Dramafilms.-.Rakuten.TV.nl" tvg-type="NL: Dramafilms - Rakuten TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/746645b7-7067-4f19-abf2-cdc8a9caccad.jpeg" group-title="NL" tvg-chno="1000",Rakuten Drama NL
+#EXTINF:-1 tvg-id="NL:.Top.Films.-.Rakuten.TV.nl" tvg-type="NL: Top Films - Rakuten TV" tvg-logo="" group-title="music" tvg-chno="1000",Rakuten Topfilms NL
+https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6054/master.m3u8
+
+#EXTINF:-1 tvg-id="NL:.Actiefilms.-.Rakuten.TV.nl" tvg-type="NL: Actiefilms - Rakuten TV" tvg-logo="" group-title="music" tvg-chno="1000",Rakuten Actiefilms NL
+https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6073/master.m3u8
+
+#EXTINF:-1 tvg-id="NL:.Komedie.-.Rakuten.TV.nl" tvg-type="NL: Komedie - Rakuten TV" tvg-logo="" group-title="NL" tvg-chno="1000",Rakuten Komedie NL
 https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6185/master.m3u8
 
-#EXTINF:-1 tvg-id="NL:.Dramafilms.-.Rakuten.TV.nl" tvg-type="NL: Dramafilms - Rakuten TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/746645b7-7067-4f19-abf2-cdc8a9caccad.jpeg" group-title="NL" tvg-chno="1000",Rakuten Drama NL
+#EXTINF:-1 tvg-id="NL:.Romantiek.-.Rakuten.TV.nl" tvg-type="NL: Romantiek - Rakuten TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/746645b7-7067-4f19-abf2-cdc8a9caccad.jpeg" group-title="NL" tvg-chno="1000",Rakuten Drama NL
 https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6198/master.m3u8
 
 #EXTINF:-1 tvg-id="NL:.Familie.-.Rakuten.TV.nl" tvg-type="NL: Familie - Rakuten TV" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f47366e9-fc16-4ec8-a05a-d6bbf6ff1685.jpeg" group-title="NL" tvg-chno="1000",Rakuten Fammilie NL
@@ -24,8 +30,14 @@ https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="NL:.Documentaires.-.Rakuten.TV.nl" tvg-type="NL: Documentaires - Rakuten TV" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/3afcac4d-f1ec-46bf-94fe-5f6107a04342.jpeg" group-title="NL" tvg-chno="1000",Rakuten Documentaires NL
 https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8
 
-#EXTINF:-1 tvg-id="NL:.Dramafilms.-.Rakuten.TV.nl" tvg-type="NL: Dramafilms - Rakuten TV" tvg-logo="" group-title="NL" tvg-chno="1000",Rakuten NL
+#EXTINF:-1 tvg-id="NL:.Dramafilms.-.Rakuten.TV.nl" tvg-type="NL: Dramafilms - Rakuten TV" tvg-logo="" group-title="NL" tvg-chno="1000",Rakuten NL Drama
 https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6097/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-type="We Do Movies" tvg-logo="https://cdn-01.watch4.com/01/1720709179_wedo-movies-benelux_red_logo.png" group-title="NL" tvg-chno="1000",Wedo movies
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomovies-benelux-ono/playlist.m3u8?app_bundle=&app_name=wedotv&app_store_url=https%3A%2F%2Fwedotv.com&url=https%3A%2F%2Fwedotv.com&genre=REPLACE_ME&ic=REPLACE_ME&us_privacy=REPLACE_ME&gdpr=1&dnt=REPLACE_ME&coppa=REPLACE_ME&channel_name=wedotv+Movies+Benelux&content_custom_1_param=wedotv+Movies+Benelux
+
+#EXTINF:-1 tvg-id="NL:.Grjngo.-.Western.Films.nl" tvg-type="NL: Grjngo - Western Films" tvg-logo="" group-title="NL" tvg-chno="1000",Gjngo Westerns
+https://be23a3aa4c7c4dd2b6221ba7ca51283e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-nl_GrjngoWesternFilms/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_classification=16&ads.content_genre=western%2Cmovies&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gam_correlator=1035752372945381&ads.gdpr_consent=CQQuiXAQQuiXAAcABBENBnFsAP_gAEPgACiQKrMVxC5cTWFgeTp1QPsEeYUH1sAwgkAAAACBAqABCCAEMBQAgiAgMASABAACAAIAIBBBAQAkCAAEAEAAQAAAAABIIACAgBAIIABAABEBAABACAACAAAAAACIgAAVAAAAkAAAAFKEAEAAAAAAAkAAAAAAAAAAAAIABAAIAAIAAEAIACgAAQAAAAAAAAAAARgAAAkAAAAAAAAAAAAAABAQEAAAAAAgABAAAAAAABBVaCIAAgABYAFQALgAcAA8ACAAEgAKgAZQA0ADUAHAAPAAfgBHACYAFCALgAugBiADQAG8APQAfgBCACGgEQARIAlgBhgDKAGaANEAc4A-AB-gEIAIsAR0AkoBigDXgG4AOIAdQA_oB_wETAIvASIAlYBMQCkQFdgLYAXmAxYBlgDVQGsgPHAfuA_sCOwEfwJvATmAncBRUCqwAAAA.f_wACHwAAAAA&ads.ifa_type=ppid&ads.market=nl&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=41e8d33a-b341-4017-a7c4-12c654507259&ads.rtv_content_id=4837&ads.rtv_content_language=nld&ads.rtvid=271863&ads.streaming_id=0b796cc5-5f51-4112-8282-42bbd51077b8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=registered&ads.wurl_channel=1482
 
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One Lon HD" tvg-logo="https://tv.assets.pressassociation.io/7101c0db-8b33-59ad-9076-13a47591751b.png" group-title="UK" tvg-chno="101",BBC One London
@@ -127,11 +139,14 @@ http://41.205.93.154/LA-DEUX/index.m3u8
 #EXTINF:-1 tvg-id="LN24.be" tvg-name="LN24" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0311_000.png" group-title="BE",BE|LN24
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 
-#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://companieslogo.com/img/orig/TFI.PA-8c6da426.png" group-title="FR", TF1
+#EXTINF:-1 tvg-chno="1" tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0031_000.png" group-title="FR", TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-name="" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/France%202%20HD.png" group-title="FR",France 2
+#EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-name="" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0016_001.png" group-title="FR",France 2
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/france2.m3u8|X-Forwarded-For=217.70.184.38
+
+#EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-name="" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0016_001.png" group-title="FR",France 2
+https://cachehsi1a.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
 
 #EXTINF:-1 tvg-chno="2" tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0016_001.png" group-title="FR",France 2
 http://41.205.93.154/FRANCE2/index.m3u8
@@ -140,6 +155,12 @@ http://69.64.57.208/france2/index.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0017_001.png" group-title="FR",France 3
 http://41.205.93.154/FRANCE3/index.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0017_001.png" group-title="FR",France 3
+https://cachehsi1a.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
+
+
+#EXTINF:-1 tvg-chno="2" tvg-id="France4.fr" tvg-name="France 4" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0208_001.png" group-title="FR",France 3
+https://cachehsi1a.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 
 #EXTINF:-1 tvg-chno="2" tvg-id="France5.fr" tvg-name="France 5" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0209_001.png" group-title="FR",France 5
 http://41.205.93.154/FRANCE5/index.m3u8
@@ -147,11 +168,22 @@ http://41.205.93.154/FRANCE5/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="France5.fr" tvg-name="France 5" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0209_001.png" group-title="FR",France 5
 http://69.64.57.208/france5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png" group-title="FR", Arte
+#EXTINF:-1 tvg-chno="2" tvg-id="France5.fr" tvg-name="France 5" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0209_001.png" group-title="FR",France 5
+https://cachehsi1a.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
+
+
+#EXTINF:-1 tvg-chno="2" tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_LOGO_M6_FD_BLANC_RVB_e4c1f81bad.png" group-title="FR",M6
+https://cachehsi1a.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
+
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte" tvg-logo="https://freebox.cdn.scw.iliad.fr/7_25267ec498.png" group-title="FR", Arte
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/tf1plus/arte.m3u8
 
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Arte%20HD.png" group-title="FR", Arte XF
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte" tvg-logo="https://freebox.cdn.scw.iliad.fr/7_25267ec498.png" group-title="FR", Arte XF
 https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8|X-Forwarded-For=217.70.184.38
+
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte" tvg-logo="hhttps://freebox.cdn.scw.iliad.fr/7_25267ec498.png" group-title="FR", Arte XF agent
+https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8|x-forwarded-for=110.33.122.75&user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+
 
 #EXTINF:-1 tvg-chno="13" tvg-id="LCP.fr" tvg-name="LCP" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/LCP.png" group-title="FR", La Chaine Parlementaire/Public Sénat
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
@@ -159,20 +191,28 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u
 #EXTINF:-1 tvg-chno="2" tvg-id="RTL9.fr" tvg-name="RTL9" tvg-logo="https://freebox.cdn.scw.iliad.fr/large_RTL_9_sans_baseline_1_3fc277f91a.jpg" group-title="FR",RTL9
 http://41.205.93.154/RTL9/index.m3u8
 
+#EXTINF:-1 tvg-chno="2" tvg-id="W9.fr" tvg-name="W9" tvg-logo="https://freebox.cdn.scw.iliad.fr/9_8fbdef300f.png" group-title="FR",W9
+https://cachehsi1a.netplus.ch/live/eds/w9/browser-dash/w9.mpd
+
 #EXTINF:-1 tvg-chno="10" tvg-id="TMC.fr" tvg-name="" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_2276_002.png" group-title="FR", TMC
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TFX.png" group-title="FR", TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 
-#EXTINF:-1 tvg-chno="" tvg-id="TF1.Séries-Films.fr" tvg-name="TF1 Séries-Films" tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/TF1%20Séries%20Films.png" group-title="FR", TF1 Séries Films
+#EXTINF:-1 tvg-chno="" tvg-id="TF1.Séries-Films.fr" tvg-name="TF1 Séries-Films" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_2351_000.png" group-title="FR", TF1 Séries Films
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/tf1plus/tf1-series-films.m3u8
+
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar" tvg-logo="https://thumb.canalplus.pro/http/unsafe/242x182/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64699011" group-title="FR" tvg-chno="",CSTAR
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar" tvg-logo="https://thumb.canalplus.pro/http/unsafe/242x182/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64699011" group-title="FR" tvg-chno="",CSTAR
+https://cachehsi1b.netplus.ch/live/eds/d17/browser-dash/d17.mpd
 
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar" tvg-logo="https://thumb.canalplus.pro/http/unsafe/242x182/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64699011" group-title="FR" tvg-chno="",CSTAR
 http://41.205.93.154/CSTAR/index.m3u8
 
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar" tvg-logo="https://thumb.canalplus.pro/http/unsafe/242x182/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64699011" group-title="FR" tvg-chno="",CSTAR
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+
 
 
 
@@ -190,10 +230,23 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="Chérie.25.fr" tvg-name="Chérie 25" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="FR",Chérie25 XF
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8|X-Forwarded-For=217.70.184.38
 
-#EXTINF:-1 tvg-chno="2" tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="FR",AB1
+#EXTINF:-1 tvg-chno="2" tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/242x182/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/611/canal-ouah/CHN43FN/AB1_BLANC_640x480-Fza-" group-title="FR",AB1
 http://41.205.93.154/AB1/index.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/242x182/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/611/canal-ouah/CHN43FN/AB1_BLANC_640x480-Fza-" group-title="FR",AB1
+https://cachehsi1a.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
+
+#EXTINF:-1 tvg-chno="2" tvg-id="SERIE.CLUB.fr" tvg-name="SERIE CLUB" tvg-logo="https://thumb.canalplus.pro/http/unsafe/242x182/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/19132964" group-title="FR",AB3 serie club
+http://41.205.93.154/AB3/index.m3u8
+
 #EXTINF:-1 tvg-chno="2" tvg-id="AB3.fr" tvg-name="AB3" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="FR",AB3
 http://41.205.93.154/AB3/index.m3u8
+
+#EXTINF:-1 tvg-chno="2" tvg-id="AB3.fr" tvg-name="AB3" tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="FR",AB3
+http://41.205.93.154/AB3/index.m3u8
+https://cachehsi1a.netplus.ch/live/eds/ab3/browser-dash/ab3.mpd
+
+#EXTINF:-1 tvg-chno="2" tvg-id="" tvg-name="" tvg-logo="" group-title="FR",canal+ clair
+https://cachehsi1a.netplus.ch/live/eds/canalplusclair/browser-dash/canalplusclair.mpd
 
 
 #EXTINF:-1 tvg-id="TV5MONDE.Europe.be" tvg-name="TV5MONDE Europe" tvg-logo="https://raw.githubusercontent.com/yadzio/tivimate_logos/refs/heads/main/fr_tv5monde_europe.png" group-title="FR" tvg-chno="",TV5 Europe
@@ -224,8 +277,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style2)/variant.m3u8|X-Forward
 https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
 
 
-
-
+#EXTINF:-1 tvg-id="NL:.Curiosity.Now.nl" tvg-name="NL: Curiosity Now" tvg-logo="" group-title="US",Curiosity now
+https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8?ads_amagi_channel=894&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_classification=6&ads_content_genre=documentary%2Csci-fi%2Chobbies&ads_device_lmt=0&ads_device_make=firefox&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gam_correlator=271247421164547&ads_gdpr_consent=CQQuiXAQQuiXAAcABBENBnFsAP_gAEPgACiQKrMVxC5cTWFgeTp1QPsEeYUH1sAwgkAAAACBAqABCCAEMBQAgiAgMASABAACAAIAIBBBAQAkCAAEAEAAQAAAAABIIACAgBAIIABAABEBAABACAACAAAAAACIgAAVAAAAkAAAAFKEAEAAAAAAAkAAAAAAAAAAAAIABAAIAAIAAEAIACgAAQAAAAAAAAAAARgAAAkAAAAAAAAAAAAAABAQEAAAAAAgABAAAAAAABBVaCIAAgABYAFQALgAcAA8ACAAEgAKgAZQA0ADUAHAAPAAfgBHACYAFCALgAugBiADQAG8APQAfgBCACGgEQARIAlgBhgDKAGaANEAc4A-AB-gEIAIsAR0AkoBigDXgG4AOIAdQA_oB_wETAIvASIAlYBMQCkQFdgLYAXmAxYBlgDVQGsgPHAfuA_sCOwEfwJvATmAncBRUCqwAAAA.f_wACHwAAAAA&ads_ifa_type=ppid&ads_market=nl&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=41e8d33a-b341-4017-a7c4-12c654507259&ads_rtv_content_id=5761&ads_rtv_content_language=eng&ads_rtvid=271863&ads_streaming_id=02fb0649-f295-43ec-9dca-20bbd2fcda03&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=registered
 
 
 
@@ -336,23 +389,27 @@ https://i.mjh.nz/.r/sbs.m3u8|X-Forwarded-For=15.197.243.27
 https://i.mjh.nz/.r/sbs.m3u8|X-Forwarded-For=202.89.4.222
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DE" tvg-chno="",RTL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.teleboy.ch/shared/stations/356/icon160_light.png?v2025_22_0" group-title="DE" tvg-chno="",RTL
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DE" tvg-chno="",RTL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.teleboy.ch/shared/stations/357/icon160_light.png?v2025_22_0" group-title="DE" tvg-chno="",RTL II
 https://strm.hdtvizlecanli.com/live/rtl2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DE" tvg-chno="",ORF 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.teleboy.ch/shared/stations/307/icon160_light.png?v2025_22_0" group-title="DE" tvg-chno="",ORF 1
 https://cachehsi1a.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEt" tvg-chno="",ORF 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.teleboy.ch/shared/stations/307/icon160_light.png?v2025_22_0" group-title="DEt" tvg-chno="",ORF 1
 https://strm.hdtvizlecanli.com/live/orf1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DE" tvg-chno="",ORF 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.teleboy.ch/shared/stations/347/icon160_light.png?v2025_22_0" group-title="DE" tvg-chno="",ORF 2
 https://cachehsi1a.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DE" tvg-chno="",ORF 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.teleboy.ch/shared/stations/347/icon160_light.png?v2025_22_0" group-title="DE" tvg-chno="",ORF 2
 https://strm.hdtvizlecanli.com/live/orf2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DE" tvg-chno="",atv
+#EXTINF:-1 tvg-id="atv.at" tvg-name="" tvg-logo="" group-title="DE" tvg-chno="",atv
 https://strm.hdtvizlecanli.com/live/atv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="RTS un" tvg-logo="https://static.teleboy.ch/shared/stations/331/icon160_light.png?v2025_22_0" group-title="FR" tvg-chno="",RTS1
+https://cachehsi1a.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+#EXTINF:-1 tvg-id="" tvg-name="RTS deux" tvg-logo="https://static.teleboy.ch/shared/stations/305/icon160_light.png?v2025_22_0" group-title="FR" tvg-chno="",RTS2
+https://cachehsi1a.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ES" tvg-chno="",La 1 CAT
 https://ztnr.rtve.es/ztnr/3293681.m3u8
@@ -369,6 +426,10 @@ https://c.mjh.nz/abc-news.m3u8
 
 #EXTINF:-1 channel-id="FR1800005X0" tvg-id="TV5 Monde Info" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800005X0_20241210T052753SQUARE.png" group-title="News",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 channel-id="France.24.fr" tvg-id="France 24" tvg-logo="https://experience-cache.cdi.streaming.proximustv.be/posterserver/poster/DEFAULT/t_0149_000.png" group-title="News",France 24 (FR)
+https://cachehsi1b.netplus.ch/live/eds/france24/browser-dash/france24.mpd
+
 
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-logo="" group-title="Music",Deluxe Schlager
@@ -403,3 +464,32 @@ http://185.59.221.131:8081/live/sabc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="streamhoster_nv" tvg-logo="https://example.com/logo.png" group-title="test",sabc1
 http://185.59.221.131:8081/live/sabc1/playlist.m3u8|X-Forwarded-For=197.97.94.69
+
+#EXTINF:-1 tvg-id="streamhoster_nv" tvg-logo="https://example.com/logo.png" group-title="test",defunt NRJ12
+https://cachehsi1a.netplus.ch/live/eds/nrj12/browser-dash/nrj12.mpd
+
+#EXTINF:-1 tvg-id="streamhoster_nv" tvg-logo="https://example.com/logo.png" group-title="test",defunt C8
+https://cachehsi1b.netplus.ch/live/eds/d8/browser-dash/d8.mpd
+
+#EXTINF:-1 tvg-id="streamhoster_nv" tvg-logo="https://example.com/logo.png" group-title="test",carac 2
+https://cachehsi1b.netplus.ch/live/eds/onetv/browser-dash/onetv.mpd
+
+#EXTINF:-1 tvg-id="streamhoster_nv" tvg-logo="https://example.com/logo.png" group-title="test",RAI 1
+https://cachehsi1a.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+#EXTINF:-1 tvg-id="streamhoster_nv" tvg-logo="https://example.com/logo.png" group-title="test",RAI 2
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:-1 tvg-id="streamhoster_nv" tvg-logo="https://example.com/logo.png" group-title="test",RAI 3
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+
+#EXTINF:-1 tvg-id="streamhoster_nv" tvg-logo="https://example.com/logo.png" group-title="test",RSI La1
+https://cachehsi1a.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+#EXTINF:-1 tvg-id="streamhoster_nv" tvg-logo="https://example.com/logo.png" group-title="test",RSI La2
+https://cachehsi1a.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+
+#EXTINF:-1 tvg-id="streamhoster_nv" tvg-logo="https://example.com/logo.png" group-title="test",SRF 1
+https://cachehsi1a.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
+#EXTINF:-1 tvg-id="streamhoster_nv" tvg-logo="https://example.com/logo.png" group-title="test",SRF 2
+https://cachehsi1a.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+
+
+
